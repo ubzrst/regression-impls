@@ -1,10 +1,8 @@
 # Regression Implementations
----
 A repository of simple implementations of common regression models used in machine learning:
 - Linear Regression
 
 ## Linear Regression
----
 Linear regression models a real-valued target as a function that is linear in its parameters. The model is given by
 $y = \theta^\top \mathbf{x} + b + \varepsilon$
 where $\mathbf{x} \in \mathbb{R}^d$ is the vector of predictors, $\theta \in \mathbb{R}^d$ is the parameter vector, $b \in \mathbb{R}$ is the bias term, and $\varepsilon$ represents noise capturing unexplained variation.
